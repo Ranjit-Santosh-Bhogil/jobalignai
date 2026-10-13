@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.env.local
+.DS_Store
+sample_resume.pdf
+sample_job.pdf
+*.pdf
